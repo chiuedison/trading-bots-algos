@@ -1,0 +1,7 @@
+numpy==1.23.1
+## Built In Libraries
+# sys
+# socket
+# json
+# time
+# multiprocessing
